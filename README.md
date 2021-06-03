@@ -1,2 +1,2 @@
 # ML417-Projects
- A compilation of assignments from CSE 417 Introduction to Machine Learning Theory
+ A compilation of assignments from CSE 417 Introduction to Machine Learning Theory. Each folder has relevant data, code, and results. 
